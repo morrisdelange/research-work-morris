@@ -32,7 +32,7 @@ To isolate these mechanisms and overcome systemic data limitations, the quantita
 
 ---
 
-## 💻 Tech Stack & Data Sources
+## Tech Stack & Data Sources
 * **Software:** Stata (Data structuring, long-format panel generation, regression modeling)
 * **Firm-Level Data:** LSEG Refinitiv (ESG metrics), Bureau van Dijk Orbis (Financial controls & foreign sales ratios)
 * **Political & Macro Data:** Timbro Dataset, ThePopuList, World Bank Development Indicators
