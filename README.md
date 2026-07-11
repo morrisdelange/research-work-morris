@@ -2,7 +2,7 @@
 
 This repository contains the replication code and documentation for my Master's Thesis in MSc International Business & Management at the University of Groningen. 
 
-## 📊 Project Overview
+## Project Overview
 This empirical study investigates how the presence of right- and left-wing populist parties in national home-country governments shapes the Environmental, Social, and Governance (ESG) performance of publicly listed domestic firms and Multinational Enterprises (MNEs) across 23 European countries. 
 
 ### Key Findings
@@ -12,7 +12,7 @@ This empirical study investigates how the presence of right- and left-wing popul
 
 ---
 
-## 🛠️ Quantitative Skills & Methodology
+## Quantitative Skills & Methodology
 To isolate these mechanisms and overcome systemic data limitations, the quantitative analysis employs advanced econometric and data management techniques:
 
 * **Panel Data Econometrics:** Implements **Fixed Effects (FE) panel regressions** to control for unobserved, time-invariant firm-level heterogeneity. Model selection was validated via a **Hausman specification test** ($p < 0.000$).
@@ -26,7 +26,7 @@ To isolate these mechanisms and overcome systemic data limitations, the quantita
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 * `Official dataset [Europe only] 2.do`: The comprehensive Stata batch file containing code for single data imputation, data merging (Refinitiv, Timbro, ThePopuList, Orbis, and World Bank databases), fixed effects panel estimations, cross-lag checking, and descriptive statistics.
 * `Master_Thesis_Morris_de_Lange.pdf`: The full-text academic report detailing the theoretical framework (Stakeholder and Institutional theories), variables, and extended discussion.
 
