@@ -1,4 +1,4 @@
-# Internship & Research – Morris de Lange
+# Research & Internship – Morris de Lange
 
 This repository collects research outputs from my MSc International Business & Management at the University of Groningen and my internship as **International Management Consultant** at [Resilience BV](https://resiliencebv.com) (Addis Ababa & Cape Town, Sept–Nov 2025), focused on private-sector development in agrologistics, seed-sector development, sustainable agriculture, and trade.
 
